@@ -1,0 +1,7 @@
+name: Hello World
+core: 8.x
+type: module
+package: Redon Agglomération
+description: Mini module test pour Drupal 8 avec création de block exemple.
+dependencies:
+  - block
